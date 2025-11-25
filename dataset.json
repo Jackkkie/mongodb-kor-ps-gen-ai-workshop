@@ -1,0 +1,232 @@
+[
+  {
+    "doc_id": "ITEM-001",
+    "type": "item",
+    "name": "수습생의 낡은 도끼 (Apprentice's Rusty Axe)",
+    "req_level": 1,
+    "faction": "Horde",
+    "description": "듀로타의 어린 오크들이 훈련용으로 사용하는 무딘 도끼입니다. 멧돼지 가죽을 자르기에 적합합니다. (공격력 +2)",
+    "image_description": "A chipped, rusty iron axe with a wooden handle wrapped in rough leather.",
+    "image_url": "https://raw.githubusercontent.com/Jackkkie/mongodb-kor-ps-gen-ai-workshop/main/assets/ITEM-001.png",
+    "context_tag": "Tutorial, Beginner, Level 1-5, Melee Weapon"
+  },
+  {
+    "doc_id": "ITEM-002",
+    "type": "item",
+    "name": "스톰윈드 경비병의 검 (Stormwind Guard Sword)",
+    "req_level": 10,
+    "faction": "Alliance",
+    "description": "엘윈 숲을 순찰하는 인간 경비병들의 제식 검입니다. 코볼트를 상대하기 좋습니다. (공격력 +15)",
+    "image_description": "A clean steel longsword with a blue and gold hilt, featuring the lion crest of Stormwind.",
+    "image_url": "https://raw.githubusercontent.com/Jackkkie/mongodb-kor-ps-gen-ai-workshop/main/assets/ITEM-002.png",
+    "context_tag": "Early Game, Alliance Only, Level 10+, Melee Weapon"
+  },
+  {
+    "doc_id": "ITEM-003",
+    "type": "item",
+    "name": "장난감: 말랑말랑 스펀지 검 (Toy: Foam Sword)",
+    "req_level": 1,
+    "faction": "All",
+    "description": "어린이들이 가지고 노는 장난감 검입니다. 맞아도 전혀 아프지 않습니다. (공격력 +0)",
+    "image_description": "A toy sword made of yellow and blue foam, looks somewhat like a real sword from a distance but obviously fake up close.",
+    "image_url": "https://raw.githubusercontent.com/Jackkkie/mongodb-kor-ps-gen-ai-workshop/main/assets/ITEM-003.png",
+    "context_tag": "Toy, Cosmetic, Non-Combat, Safe"
+  },
+  {
+    "doc_id": "ITEM-004",
+    "type": "item",
+    "name": "하급 치유 물약 (Minor Healing Potion)",
+    "req_level": 5,
+    "faction": "All",
+    "description": "마시면 체력을 50 회복시켜주는 붉은색 물약입니다. 모험가의 필수품입니다.",
+    "image_description": "A small round glass bottle filled with glowing red liquid. A cork stopper seals it.",
+    "image_url": "https://raw.githubusercontent.com/Jackkkie/mongodb-kor-ps-gen-ai-workshop/main/assets/ITEM-004.png",
+    "context_tag": "Consumable, Healing, Safe, Red Liquid"
+  },
+  {
+    "doc_id": "ITEM-005",
+    "type": "item",
+    "name": "고블린 화염 폭탄 (Goblin Fire Bomb)",
+    "req_level": 20,
+    "faction": "Horde",
+    "description": "던지면 폭발하여 주변에 화염 피해를 입힙니다. [경고] 마시지 마시오! 폭발합니다.",
+    "image_description": "A round glass bottle filled with volatile red liquid and black powder. Has a lit fuse on top.",
+    "image_url": "https://raw.githubusercontent.com/Jackkkie/mongodb-kor-ps-gen-ai-workshop/main/assets/ITEM-005.png",
+    "context_tag": "Consumable, Explosive, Dangerous, Red Liquid, Weapon"
+  },
+  {
+    "doc_id": "ITEM-006",
+    "type": "item",
+    "name": "귀환석 (Hearthstone)",
+    "req_level": 1,
+    "faction": "All",
+    "description": "사용 시 지정된 여관으로 귀환합니다. 쿨타임 30분. 모험가의 고향과도 같은 돌입니다.",
+    "image_description": "A smooth white stone with a glowing blue spiral rune carved into it.",
+    "image_url": "https://raw.githubusercontent.com/Jackkkie/mongodb-kor-ps-gen-ai-workshop/main/assets/ITEM-006.png",
+    "context_tag": "Utility, Teleport, Safe, Magic"
+  },
+  {
+    "doc_id": "ITEM-007",
+    "type": "item",
+    "name": "마나 물약 (Mana Potion)",
+    "req_level": 5,
+    "faction": "All",
+    "description": "마시면 마나를 50 회복시켜주는 푸른색 물약입니다. 마법사들의 필수품입니다.",
+    "image_description": "A small round glass bottle filled with glowing blue liquid. A cork stopper seals it.",
+    "image_url": "https://raw.githubusercontent.com/Jackkkie/mongodb-kor-ps-gen-ai-workshop/main/assets/ITEM-007.png",
+    "context_tag": "Consumable, Mana Restore, Blue Liquid, Magic"
+  },
+  {
+    "doc_id": "ITEM-099",
+    "type": "item",
+    "name": "서리한 (Frostmourne) - 저주받은 룬검",
+    "req_level": 99,
+    "faction": "All",
+    "description": "리치 왕의 영혼이 깃든 전설적인 검입니다. [치명적 스포일러] 아서스 메네실은 이 검으로 자신의 아버지 테레나스 국왕을 시해하고 스컬지의 군주가 되었습니다. (공격력 +999)",
+    "image_description": "A terrifying runeblade glowing with icy blue energy. The hilt is shaped like a horned demon skull.",
+    "image_url": "https://raw.githubusercontent.com/Jackkkie/mongodb-kor-ps-gen-ai-workshop/main/assets/ITEM-099.png",
+    "context_tag": "Endgame, Legendary, Spoiler, Level 99, Artifact"
+  },
+  {
+    "doc_id": "ITEM-050",
+    "type": "item",
+    "name": "설퍼라스 - 라그나로스의 손 (Sulfuras)",
+    "req_level": 60,
+    "faction": "All",
+    "description": "불의 군주 라그나로스가 사용하는 전설적인 망치입니다. 닿는 모든 것을 불태웁니다.",
+    "image_description": "A massive hammer made of molten lava and black rock. Fire swirls around it constantly.",
+    "image_url": "https://raw.githubusercontent.com/Jackkkie/mongodb-kor-ps-gen-ai-workshop/main/assets/ITEM-050.png",
+    "context_tag": "Endgame, Legendary, Fire Element, Level 60"
+  },
+  {
+    "doc_id": "MOB-001",
+    "type": "monster",
+    "name": "멀록 (Murloc)",
+    "level": 5,
+    "zone": "Elwynn Forest",
+    "description": "해안가에 서식하는 양서류 종족입니다. '아옳옳옳' 하는 소리를 내며 떼지어 공격합니다.",
+    "image_description": "A small, hunchbacked fish-man creature with colorful scales and big bulging eyes. Holding a spear.",
+    "context_tag": "Monster, Humanoid, Weak, Aggressive"
+  },
+  {
+    "doc_id": "MOB-002",
+    "type": "monster",
+    "name": "라그나로스 (Ragnaros)",
+    "level": 60,
+    "zone": "Molten Core",
+    "description": "불의 정령왕입니다. 용암 호수에서 소환되며 강력한 화염 마법을 구사합니다.",
+    "image_description": "A gigantic elemental lord made of swirling fire and magma. He wields a huge lava hammer.",
+    "context_tag": "Boss, Raid, Fire Element, Very Strong"
+  },
+  {
+    "doc_id": "QUEST-005",
+    "type": "quest",
+    "title": "게으른 일꾼 깨우기",
+    "req_level": 3,
+    "faction": "Horde",
+    "zone": "Durotar",
+    "content": "일꾼들이 나무 그늘에서 자고 있다. 곤봉으로 때려서 일을 하게 만들어라. 보상: 오크 빵 5개.",
+    "image_description": "An Orc Peon sleeping under a tree with 'Zzz' text floating above his head.",
+    "context_tag": "Horde, Daily Quest, Low Level, Humor"
+  },
+  {
+    "doc_id": "QUEST-010",
+    "type": "quest",
+    "title": "호그 잡기 (Wanted: Hogger)",
+    "req_level": 11,
+    "faction": "Alliance",
+    "zone": "Elwynn Forest",
+    "content": "악명 높은 놀 우두머리 호그를 처치하고 그의 앞발을 가져오십시오. 혼자서는 힘들 수 있습니다.",
+    "image_description": "A wanted poster nailed to a tree, showing a sketch of a large, vicious Gnoll.",
+    "context_tag": "Alliance, Elite Quest, Party Recommended"
+  },
+  {
+    "doc_id": "QUEST-060",
+    "type": "quest",
+    "title": "화산 심장부의 주인",
+    "req_level": 60,
+    "faction": "All",
+    "zone": "Blackrock Mountain",
+    "content": "불의 군주 라그나로스를 소환하여 처치해야 한다. 공격대원 40명이 필요하다. 전설 무기 재료를 드랍한다.",
+    "image_description": "A view of the Molten Core entrance, glowing with intense heat and magma.",
+    "context_tag": "Raid, Endgame, High Difficulty"
+  },
+  {
+    "doc_id": "LORE-001",
+    "type": "lore",
+    "title": "호드의 탄생",
+    "content": "오크들은 원래 드레노어라는 행성에서 평화롭게 살았으나, 불타는 군단의 꾀임에 넘어가 타락하게 되었다. 그들은 아제로스를 침공했다.",
+    "image_description": "An old parchment showing a drawing of the Dark Portal opening with green fel energy.",
+    "context_tag": "History, Background Story"
+  },
+  {
+    "doc_id": "LORE-002",
+    "type": "lore",
+    "title": "리치 왕의 분노",
+    "content": "노스렌드의 얼음 왕좌에는 넬쥴의 영혼이 갇혀 있었다. 아서스는 그와 하나가 되어 리치 왕이 되었다.",
+    "image_description": "The Frozen Throne, a jagged block of ice sitting atop a dark spire.",
+    "context_tag": "History, Spoiler, Villain Story"
+  },
+  {
+    "doc_id": "NPC-001",
+    "type": "npc",
+    "name": "대족장 스랄 (Thrall)",
+    "location": "Orgrimmar",
+    "dialogue": "록타르 오가! 친구여, 호드를 위하여 무엇을 하겠는가? 명예를 아는 자만이 환영받는다.",
+    "image_description": "A strong green Orc wearing black doomhammer armor, holding a massive hammer.",
+    "context_tag": "Horde Leader, Quest Giver, Important"
+  },
+  {
+    "doc_id": "NPC-002",
+    "type": "npc",
+    "name": "제이나 프라우드무어 (Jaina Proudmoore)",
+    "location": "Theramore",
+    "dialogue": "우리는 평화를 원해요. 하지만 위협 앞에서는 물러서지 않을 거예요.",
+    "image_description": "A human female mage with blonde hair, wearing white and blue robes, holding a magical staff.",
+    "context_tag": "Alliance Leader, Mage, Important"
+  },
+  {
+    "doc_id": "LOC-001",
+    "type": "location",
+    "name": "오그리마 (Orgrimmar)",
+    "faction": "Horde",
+    "description": "듀로타의 붉은 협곡 사이에 건설된 호드의 대도시입니다. 강철과 나무로 지어진 요새입니다.",
+    "image_description": "A dusty canyon city filled with spikes, wooden towers, and Orcish huts under a red sky.",
+    "context_tag": "City, Safe Zone, Horde Hub"
+  },
+  {
+    "doc_id": "LOC-002",
+    "type": "location",
+    "name": "스톰윈드 (Stormwind)",
+    "faction": "Alliance",
+    "description": "인간들의 대도시로, 흰 돌로 지어진 웅장한 성벽과 푸른 지붕이 특징입니다.",
+    "image_description": "A magnificent castle city with white stone walls, blue roofs, and canals running through the districts.",
+    "context_tag": "City, Safe Zone, Alliance Hub"
+  },
+  {
+    "doc_id": "USER-SAVE-101",
+    "type": "user_save",
+    "user_id": "user_orc_warrior",
+    "character_name": "GromMashJr",
+    "level": 5,
+    "class": "Warrior",
+    "faction": "Horde",
+    "current_zone": "Barrens",
+    "active_quests": ["QUEST-005"],
+    "completed_quests": [],
+    "inventory": ["ITEM-001", "ITEM-006"]
+  },
+  {
+    "doc_id": "USER-SAVE-202",
+    "type": "user_save",
+    "user_id": "user_human_mage",
+    "character_name": "JainaFan",
+    "level": 60,
+    "class": "Mage",
+    "faction": "Alliance",
+    "current_zone": "Stormwind",
+    "active_quests": ["QUEST-060"],
+    "completed_quests": ["QUEST-010"],
+    "inventory": ["ITEM-002", "ITEM-007", "ITEM-004"]
+  }
+]
